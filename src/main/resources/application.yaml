@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+translate:
+  dictionary:
+    hello: hola
+    world: mundo
+    good: bueno
+    morning: mañana
